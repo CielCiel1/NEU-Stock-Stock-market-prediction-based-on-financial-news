@@ -10,7 +10,7 @@
   <h1 align="center", id="introduction">NEU-STOCK</h1>
 </p>
 
-- In this study, we investigated and suggested a novel method for predicting stock values based on the effect of news articles. We chose 'Long short-term memory in conjunction with the 'Attention' mechanism after comparing and evaluating several alternative models. NEU-STOCK is tested using FPT's 1800 sample dataset and the website CafeF.vn.
+- In this study, we investigated and suggested a novel method for predicting stock values based on the effect of news articles. We chose `Long short-term memory` in conjunction with the `Attention` mechanism after comparing and evaluating several alternative models. NEU-STOCK is tested using FPT's 1800 sample dataset and the website CafeF.vn.
 
 ## Details <a name="Details"></a>
 
