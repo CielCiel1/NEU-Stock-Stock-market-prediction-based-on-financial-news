@@ -3,7 +3,7 @@
 1. [Introduction](#introduction)
 2. [Details](#details)
    - [Dataset](#Dataset)
-   - [Proposedmodel](#Proposed_model)
+   - [Proposed model](#Proposed_model)
 3. [Results](#Results)
 4. [Contact](#Contact)
 <p align="center">
