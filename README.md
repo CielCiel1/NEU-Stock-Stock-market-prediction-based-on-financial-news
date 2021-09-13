@@ -28,13 +28,13 @@
 
 ### Proposed model  <a name="Proposed_model"></a>
 - The method is built around two components: A stock news classification model and a prediction model based on `LSTM` and the `Attention` mechanism. The complete model's operating procedure is as the figure below: 
-![] (https://github.com/CielCiel1/NEU-Stock-Stock-market-prediction-based-on-financial-news/blob/main/Image/ppmodel.PNG)
+![](https://github.com/CielCiel1/NEU-Stock-Stock-market-prediction-based-on-financial-news/blob/main/Image/ppmodel.PNG)
 
 ## Results <a name="Results"></a>
 - The dataset is divided into two sets: training set with the first 1600 samples and testing set including the remaining 200 samples. We assessed LSTM and LSTM-Attention with news and without news performance based on the MAPE, RMSE, and R2 metrics.
 
 |     |         LSTM            |             LSTM-Attention        |
-|     |:-----------------------:|:---------------------------------:|
+|:---:|:-----------------------:|:---------------------------------:|
 |     | With news |Without news |With news'NEU-Stock'|Without news  |
 |:---:|:---------:|:-----------:|:------------------:|:------------:|
 |MAPE |   1.386   |    1.370    |    1.338           |    1.734     |
