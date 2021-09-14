@@ -45,4 +45,4 @@ The  prediction  of  NEU-Stock  on  the  test  set  is  illustrated  in below Fi
 ![](https://github.com/CielCiel1/NEU-Stock-Stock-market-prediction-based-on-financial-news/blob/main/Image/model_att.png)
 ## Contact <a name="Contact"></a>
 - Supervisor: [Tuan Nguyen](https://www.facebook.com/nttuan8)
-- Team Members: [Trang Tran](https://www.facebook.com/cieltrantrang/),[Long Nguyen](https://www.facebook.com/lnn1208), [Tung Nguyen](https://www.facebook.com/gnutn0s), [Thao Nguyen](),  [Phuong Duong](https://www.facebook.com/dtp.2612) 
+- Team Members: [Trang Tran](https://www.facebook.com/cieltrantrang/),[Long Nguyen](https://www.facebook.com/lnn1208), [Tung Nguyen](https://www.facebook.com/gnutn0s), [Thao Nguyen]()
